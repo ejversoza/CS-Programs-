@@ -1,2 +1,2 @@
 # CS-Programs-
-Some programs I did for my Computer Science classes.
+Some programs I did as assignments for my Computer Science classes.
