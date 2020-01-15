@@ -1,2 +1,2 @@
 # CS-Programs-
-Programs I did over the years for CS 
+Some programs I did for my Computer Science classes.
