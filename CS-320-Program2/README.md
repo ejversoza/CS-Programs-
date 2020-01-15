@@ -1,1 +1,1 @@
-The purpose of this assignment in to find all prime numbers in a given range 
+The purpose of this program is to find all prime numbers in a user inputted given range 
